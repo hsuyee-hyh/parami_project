@@ -1,4 +1,5 @@
-# This is EDA data analysis project of Mental Health Problem of small online community survey collected on Kaggle.
+# Mental Health Analysis
+#### This is EDA data analysis project of Mental Health Problem of small online community survey collected on Kaggle.
 
 ### Tech Stack
 -**Language:** Python
